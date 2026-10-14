@@ -1,4 +1,4 @@
-"""Person 5: display recent SecureVault security events."""
+"""Display recent SecureVault security events."""
 from pathlib import Path
 
 LOG_FILE = Path("logs/security.log")

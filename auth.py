@@ -1,6 +1,6 @@
 """
 auth.py - Secure login with RBAC and TOTP two-factor authentication.
-Owner: Person 2 (Secure Design + Authentication)
+Author: Safal Sapkota
 
 GUI-independent: the Tkinter dialog (tk_login.py) and any other front end
 call into this module. Teammates protect their functions with

@@ -1,6 +1,6 @@
 
 # ICT306 - SECUREVAULT
-# Integrated Group Demonstration Application
+# Desktop application developed by Safal Sapkota
 
 import os
 import json

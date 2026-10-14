@@ -1,4 +1,4 @@
-"""Person 5: SecureVault security logging configuration."""
+"""SecureVault security logging configuration."""
 import logging
 from logging.handlers import RotatingFileHandler
 from pathlib import Path
