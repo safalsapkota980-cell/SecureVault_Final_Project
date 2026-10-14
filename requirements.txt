@@ -1,2 +1,5 @@
 cryptography>=46.0
 argon2-cffi>=25.1
+pyotp
+qrcode[pil]
+pytest

@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
 .env
 .env.*
 !.env.example
@@ -10,4 +11,4 @@ venv/
 logs/
 vault_files/
 users.json
-demo_user_2fa.png
+*_2fa.png
