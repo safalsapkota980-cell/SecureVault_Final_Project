@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+logs/
+vault_files/
+users.json
+demo_user_2fa.png
